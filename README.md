@@ -28,9 +28,19 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain what a token is used for.
+token is an identifier for a user. it holds the credentials for access 
+
 2. What steps can you take in your web apps to keep your data secure?
+
+
 3. Describe how web servers work.
+they host data that can be accessed 
+
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+.post
+.get
+.put
+.delete
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -82,7 +92,7 @@ Build a login form to authenticate your users.
 - [ ] Finish the test in `BubblePage.test.js` to test that your app is fetching the bubble data from the API
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. You will be scored on your adherence to proper code style and good organization. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
-
+  
 ### Task 3: Stretch Goals 
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
